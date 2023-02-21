@@ -22,7 +22,7 @@
 
 .position {
     top: 20px;
-    right: 0px;
+    left: 20px;
 }
 
 p {
@@ -412,9 +412,6 @@ textarea {
             line-height: 50px;
         }
 }
-
-@media (max-width:768px) {}
-
 @media (max-width:576px) {
     .hr_big_1_xsm {
         height: 8px;
